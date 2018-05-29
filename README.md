@@ -1,5 +1,5 @@
 # AutoMessage
->> A simple plugin to broadcast timed messages automaticly &lt;&lt;
+'A simple plugin to broadcast timed messages automaticly.'
 
 ## Prerequisites
 
