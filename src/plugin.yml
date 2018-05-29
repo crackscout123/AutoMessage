@@ -1,0 +1,5 @@
+name: AutoMSG
+version: 1.0
+author: JOE_
+database: false
+main: me.joe_.autoMSG.main.AutoMSG
